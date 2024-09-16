@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://cewekmandi.pages.dev/sitemap.xml
